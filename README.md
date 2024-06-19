@@ -1,8 +1,8 @@
 # BPTranslateFiles
 Anime Game Translation Files
+Discord: [Link](https://discord.gg/jdkams6jca)
 
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/d0d4d6ec-958c-47b1-8b3d-9938496cb8ec)
-
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/4fa01736-ffc8-48dc-9660-09ec9705d572)
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/1f3b1f5e-3723-4998-b66e-13fa0c44a232)
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/99b701bd-37cd-499e-afad-23ae3760ffb0)
