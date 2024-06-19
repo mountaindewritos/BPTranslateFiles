@@ -1,4 +1,4 @@
 # BPTranslateFiles
 Anime Game Translation Files
 
-I'm only translating Japanese Texts
+I'm only translate Japanese texts to English texts
