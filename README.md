@@ -1,5 +1,6 @@
 # BPTranslateFiles
 Anime Game Translation Files
+
 Discord: [Link](https://discord.gg/jdkams6jca)
 
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/d0d4d6ec-958c-47b1-8b3d-9938496cb8ec)
