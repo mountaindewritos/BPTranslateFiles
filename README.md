@@ -1,5 +1,5 @@
 # Blast Protocol Translation Files 
-Anime Game Translation Files
+Anime Game Translation Files - [DISCORD LINK](https://discord.gg/jdkams6jca)
 
 **Starting July 5 2024: All Upcoming Releases will be on hold to focus on the quality of the translation and UI fix.**
 
@@ -7,11 +7,9 @@ Anime Game Translation Files
 
 **I've made the difficult decision to manually check and edit over 400,000 lines of translated sentences and words. This is a challenging task, especially given my limited resources. Additionally, my doctor has advised me not to stay up late due to recent health issues.**
 
-**Thank you for your understanding and patience.**
-
-**Meanwhile you may join the Discord Server of the original creators: [Link](https://discord.gg/jdkams6jca)**
-
 **Your support means a lot to me. If you would like to contribute, a simple donation would help me continue this project: _[DONATION LINK](https://ko-fi.com/mountaindewritos)_**
+
+**Thank you for your understanding and patience.**
 
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/724d60f2-da6b-4bd5-9836-43e1b14d2c95)
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/0ce4a14d-f47f-4955-bddf-dea5dca37473)
