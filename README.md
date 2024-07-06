@@ -1,7 +1,11 @@
-# BPTranslateFiles
+# BPTranslateFiles 
 Anime Game Translation Files
 
-Discord: [Link](https://discord.gg/jdkams6jca)
+**Starting July 5 2024: All Upcoming Releases will be on hold to focus on the quality of the translation and UI fix**
+
+**Meanwhile you may join the Discord Server of the original creators: [Link](https://discord.gg/jdkams6jca)**
+
+**A simple Donation is enough for me to continue this project (I need more Mountain Dew): _[CLICK HERE](https://ko-fi.com/mountaindewritos)_**
 
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/d0d4d6ec-958c-47b1-8b3d-9938496cb8ec)
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/4fa01736-ffc8-48dc-9660-09ec9705d572)
