@@ -5,7 +5,7 @@ Anime Game Translation Files | **[DISCORD LINK](https://discord.gg/jdkams6jca)**
 
 **The BP Translation Community and I have revived this project with a single goal: to translate the latest content into English without relying on external OCR tools that can hinder PC performance. Leveraging AI and machine learning, we've achieved rapid translation of over 100,000 lines of pure Japanese text. However, this approach has its drawbacks, leading to inconsistent words and phrasing.**
 
-**I've made the difficult decision to manually check and edit over 400,000 lines of translated sentences and words. This is a challenging task, especially given my limited resources. Additionally, my doctor has advised me not to stay up late due to recent health issues.**
+**I've made the difficult decision to manually check and edit over 400,000 lines of code that includes the translated texts. This is a challenging task, especially given my limited resources and my doctor has advised me to avoid staying up late due to recent health issues.**
 
 **Your support means a lot to me. If you would like to contribute, a simple donation would help me continue this project**
 
