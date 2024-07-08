@@ -1,6 +1,8 @@
 # Blast Protocol Translation Files 
 Anime Game Translation Files | **[DISCORD LINK](https://discord.gg/jdkams6jca)** | **_[DONATION LINK](https://ko-fi.com/mountaindewritos)_**
 
+![Blast Protocol Mod](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/45396439-4053-4aac-bd7c-8ddd3cacc3d6)
+
 **Starting July 5 2024: Future releases might take longer, possibly weeks or months, as we focus on improving the quality of the translation and fixing the UI.**
 
 **The BP Translation Community and I have revived this project with a single goal: to translate the latest content into English without relying on external OCR tools that can hinder PC performance. Leveraging AI and machine learning, we've achieved rapid translation of over 100,000 lines of pure Japanese text. However, this approach has its drawbacks, leading to inconsistent words and phrasing.**
