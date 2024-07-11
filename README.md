@@ -8,11 +8,11 @@ Starting July 5 2024: Future releases might take longer, possibly weeks or month
 
 # About Blast Protocol
 This fan-made translation mod is our gift to everyone eagerly awaiting the official global release and wanting to experience the Japanese version of the game. 
-Initially it was started as a Fully Machine Translation Mod for faster development but turned into Semi Human / Machine Translation due to some inconsistencies that the Machine Learning produced.
+Initially it was started as a Full Machine Translation Mod for faster development but turned into Semi Human / Machine Translation due to some inconsistencies that the Machine Learning produced.
 While some grammar and words are not entirely accurate, we are doing what we can to correct it.
-**Map names are now sourced from [BP-DATA's Website](bp-data.net). Use a translation plugin on your web browser to view the translated map names.**
+**Map names are sourced from [BP-DATA's Website](bp-data.net). Use a translation plugin on your web browser to view the translated map names.**
 
-# Meet The Team Blast
+# Meet Team Blast
 - MCE -  Unpacker/Repacker, Base File Contributor, Debugger, NEW Server Patcher
 - Dewritos - Translator, Debugger, Unpacker/Repacker, Git Uploader
 - FormagGino - Special Adviser
