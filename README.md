@@ -12,7 +12,7 @@ Initially it was started as a Fully Machine Translation Mod for faster developme
 While some grammar and words are not entirely accurate, we are doing what we can to correct it.
 **Map names are now sourced from [BP-DATA's Website](bp-data.net). Use a translation plugin on your web browser to view the translated map names.**
 
-# Blast Protocol Team
+# Meet The Team
 These are the people behind Blast Protocol Translation Project
 - MCE -  Unpacker/Repacker, Base File Contributor, Debugger, NEW Server Patcher
 - Dewritos - Translator, Debugger, Unpacker/Repacker, Git Uploader
