@@ -1,5 +1,7 @@
-# Blast Protocol Translation Files 
+# Blast Protocol Translation Project 
 Anime Game Translation Files | **[DISCORD LINK](https://discord.gg/jdkams6jca)** | **_[DONATION LINK](https://ko-fi.com/mountaindewritos)_**
+
+![Blast Protocol Mod](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/45396439-4053-4aac-bd7c-8ddd3cacc3d6)
 
 **Starting July 5 2024: Future releases might take longer, possibly weeks or months, as we focus on improving the quality of the translation and fixing the UI.**
 
