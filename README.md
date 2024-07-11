@@ -25,6 +25,7 @@ I would like to thank:
 
 # Support this Passion Project 
 **If you would like to contribute, a simple donation would help the project to continue**
+
 **I would like to thank the people who donated to my Ko-fi. I appreciate and thank you for your incredible support**
 
 
