@@ -23,10 +23,10 @@ I would like to thank:
 - ArtFect - Server Patcher Legacy
 - Light - Beta Feedback Provider (Discord)
 
-**I would also like to thank the people who donated to my Ko-fi. I appreciate and thank you for your incredible support**
-
 # Support this Passion Project 
 **If you would like to contribute, a simple donation would help the project to continue**
+**I would like to thank the people who donated to my Ko-fi. I appreciate and thank you for your incredible support**
+
 
 **Thank you~**
 
