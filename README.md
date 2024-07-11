@@ -20,8 +20,8 @@ These are the people behind Blast Protocol Translation Project
 - Zakum - Feedback Provider
 
 I would also like to thank:
-- DOTX - Server Legacy Patcher
-- ArtFect - Server Legacy Patcher
+- DOTX - Server Patcher Legacy
+- ArtFect - Server Patcher Legacy
 - Light - Beta Feedback Provider (Discord)
 
 # Support this Passion Project 
