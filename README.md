@@ -3,15 +3,30 @@ Anime Game Translation Files | **[DISCORD LINK](https://discord.gg/jdkams6jca)**
 
 ![Blast Protocol Mod](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/45396439-4053-4aac-bd7c-8ddd3cacc3d6)
 
-**Starting July 5 2024: Future releases might take longer, possibly weeks or months, as we focus on improving the quality of the translation and fixing the UI.**
+**ANNOUNCEMENT**
+Starting July 5 2024: Future releases might take longer, possibly weeks or months, as we focus on improving the quality of the translation and fixing the UI.
 
-**The BP Translation Community and I have revived this project with a single goal: to translate the latest content into English without relying on external OCR tools that can hinder PC performance. Leveraging AI and machine learning, we've achieved rapid translation of over 100,000 lines of pure Japanese text. However, this approach has its drawbacks, leading to inconsistent words and phrasing.**
+# About Blast Protocol
+This fan-made translation mod is our gift to everyone eagerly awaiting the official global release and wanting to experience the Japanese version of the game. 
+Initially it was started as a Fully Machine Translation Mod for faster development but turned into Semi Human / Machine Translation due to some inconsistencies that the Machine Learning produced.
+While some grammar and words are not entirely accurate, we are doing what we can to correct it.
+**Map names are now sourced from [BP-DATA's Website](bp-data.net). Use a translation plugin on your web browser to view the translated map names.**
 
-**I've made the difficult decision to manually check and edit over 400,000 lines of code that includes the translated texts. This is a challenging task, especially given my limited resources and my doctor has advised me to avoid staying up late due to recent health issues.**
+# Blast Protocol Team
+These are the people behind Blast Protocol Translation Project
+- MCE -  Unpacker/Repacker, Base File Contributor, Debugger, NEW Server Patcher
+- Dewritos - Translator, Debugger, Unpacker/Repacker, Git Uploader
+- FormagGino - Special Adviser
+- Zakum - Feedback Provider
 
-**Your support means a lot to me. If you would like to contribute, a simple donation would help me continue this project**
+I would also like to thank:
+- ArtFect - Server Legacy Patcher
+- Light - Beta Feedback Provider (Discord)
 
-**Thank you for your understanding and patience.**
+# Support this Passion Project 
+**If you would like to contribute, a simple donation would help the project to continue**
+
+**Thank you~**
 
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/724d60f2-da6b-4bd5-9836-43e1b14d2c95)
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/0ce4a14d-f47f-4955-bddf-dea5dca37473)
