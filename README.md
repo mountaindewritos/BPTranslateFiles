@@ -23,7 +23,7 @@ I would like to thank:
 - ArtFect - Server Patcher Legacy
 - Light - Beta Feedback Provider (Discord)
 
-# How to Install
+# How to Install Mods
 Download and Copy the following:
 1. dinput8.dll (client-patch\Binaries\Win64)
 DriveLetter:\...\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64
@@ -38,7 +38,15 @@ DriveLetter:\...\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks
 example
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/ba0aa679-c18b-4330-90a6-1a5a8ea83d21)
 
-# Avoid Getting Banned
+# How to Use a Server Patcher
+**There are two Server Patcher tools**
+For users of the patcher tool, I recommend deleting any versions of the patcher downloaded before the latest update.
+Open **README** on each ZIP for Instructions.
+
+1. Server Patcher 2024 - A new patcher made by MCE. Follow the instructions carefully.
+2. Server Patcher Legacy - A working patcher made by [ArtFect](https://github.com/ArtFect/BP-translate)
+
+# Tips to avoid getting BANNED
 **Make sure you that you turn on your VPN before using the patcher**
 _Commercial VPNs such as NordVPN and ExpressVPN are not recommended, as they can sometimes be detected by BanNamco and result in an account ban._
 
