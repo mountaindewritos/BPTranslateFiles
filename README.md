@@ -52,6 +52,9 @@ Open **README** on each ZIP for Instructions.
 **Make sure you that you turn on your VPN before using the patcher**
 _Commercial VPNs such as NordVPN and ExpressVPN are not recommended, as they can sometimes be detected by BanNamco and result in an account ban._
 
+**Keep Software Updated** 
+_Ensure any legitimate patches or updates are applied promptly to avoid compatibility issues._
+
 **Do not alter game files**
 _Manipulating game files goes against the game's terms of service. We provide patcher tools solely for translating text and not for manipulating stats. Any bans incurred as a result of your actions are your own responsibility._
 
