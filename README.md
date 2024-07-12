@@ -49,26 +49,20 @@ Open **README** on each ZIP for Instructions.
 2. Server Patcher Legacy - A working patcher made by [ArtFect](https://github.com/ArtFect/BP-translate)
 
 # Tips to avoid getting BANNED
-**Make sure you that you turn on your VPN before using the patcher**
+- **Make sure you that you turn on your VPN before using the patcher**
 _Commercial VPNs such as NordVPN and ExpressVPN are not recommended, as they can sometimes be detected by BanNamco and result in an account ban._
 
-**Keep Software Updated** 
-_Ensure any legitimate patches or updates are applied promptly to avoid compatibility issues._
+- **Keep Software Updated**: _Ensure any legitimate patches or updates are applied promptly to avoid compatibility issues._
 
-**Do not alter game files**
-_Manipulating game files goes against the game's terms of service. We provide patcher tools solely for translating text and not for manipulating stats. Any bans incurred as a result of your actions are your own responsibility._
+- **Do not alter game files**: _Manipulating game files goes against the game's terms of service. We provide patcher tools solely for translating text and not for manipulating stats. Any bans incurred as a result of your actions are your own responsibility._
 
-**Know your friends**
-_Trust only those whom you know, and do not accept friend requests from unfamiliar individuals. If they discover that you are an overseas player, you may be reported_
+- **Know your friends**: _Trust only those whom you know, and do not accept friend requests from unfamiliar individuals. If they discover that you are an overseas player, you may be reported_
 
-**Respect other players**
-_Play fairly and respect those around you. Avoid using emojis or actions that may annoy others, and refrain from being rude._
+- **Respect other players**: _Play fairly and respect those around you. Avoid using emojis or actions that may annoy others, and refrain from being rude._
 
-**Don't use MIC**
-_A general rule: if you only speak English and not Japanese, your party or teammates may report you, potentially leading to a ban._
+- **Don't use MIC**: _A general rule: if you only speak English and not Japanese, your party or teammates may report you, potentially leading to a ban._
 
-**Lastly, This ain't a fool proof system**
-_Use the patcher cautiously as it may be detected in the future; therefore, use it at your own risk._
+- **Not a fool proof system**: _Use the patcher cautiously as it may be detected in the future; therefore, use it at your own risk._
 
 # Support this Passion Project 
 **If you would like to contribute, a simple donation would help the project to continue**
