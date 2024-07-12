@@ -48,6 +48,9 @@ Open **README** on each ZIP for Instructions.
 1. Server Patcher 2024 - A new patcher made by MCE. Follow the instructions carefully.
 2. Server Patcher Legacy - A working patcher made by [ArtFect](https://github.com/ArtFect/BP-translate)
 
+# How to Uninstall
+**Just Delete the files (dinput8.dll and ~mods folder) and you are good to go.**
+
 # Tips to avoid getting BANNED
 - **Make sure you that you turn on your VPN before using the patcher**
 _Commercial VPNs such as NordVPN and ExpressVPN are not recommended, as they can sometimes be detected by BanNamco and result in an account ban._
@@ -70,6 +73,7 @@ _Commercial VPNs such as NordVPN and ExpressVPN are not recommended, as they can
 **I would like to thank the people who donated to my Ko-fi. I appreciate your incredible support guys**
 
 **Thank you~**
+
 
 # Screenshots
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/724d60f2-da6b-4bd5-9836-43e1b14d2c95)
