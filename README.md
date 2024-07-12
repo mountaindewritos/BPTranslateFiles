@@ -13,15 +13,17 @@ While some grammar and words are not entirely accurate, we are doing what we can
 **Map names are sourced from [BP-DATA's Website](bp-data.net). Use a translation plugin on your web browser to view the translated map names.**
 
 # Meet Team Blast
-- MCE -  Unpacker/Repacker, Base File Contributor, Debugger, NEW Server Patcher
-- Dewritos - Translator, Debugger, Unpacker/Repacker, Git Uploader
-- FormagGino - Special Adviser
-- Zakum - Feedback Provider
+- **mce** -  Unpacker/Repacker, Base File Contributor, Debugger, NEW Server Patcher
+- **Dewritos** - Translator, Debugger, Unpacker/Repacker, Git Uploader
+- **FormagGino** - Special Adviser
+- **Zakum** - Feedback Provider
 
-I would like to thank:
-- DOTX - Server Patcher Legacy
-- ArtFect - Server Patcher Legacy
-- Light - Beta Feedback Provider (Discord)
+**I would like to thank:**
+- **DOTX** - Server Patcher Legacy
+- **ArtFect** - Server Patcher Legacy
+- **Light** - Beta Feedback Provider (Discord)
+
+**I would also like to thank the people who donated to my Ko-fi. I appreciate and thank you for your incredible support**
 
 # How to Install Mods
 Download and Copy the following:
