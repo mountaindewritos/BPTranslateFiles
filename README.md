@@ -23,14 +23,48 @@ I would like to thank:
 - ArtFect - Server Patcher Legacy
 - Light - Beta Feedback Provider (Discord)
 
+# How to Install
+Download and Copy the following:
+1. dinput8.dll (client-patch\Binaries\Win64)
+DriveLetter:\...\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64
+
+example
+![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/6b2bf90a-e047-4179-a446-510a2f90bd80)
+
+2. ~mods (client-patch\Content\Paks) - Remove the old patch files (.pak & .sig)
+If you already have the mod file with the same name, just download .pak file
+DriveLetter:\...\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks
+
+example
+![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/ba0aa679-c18b-4330-90a6-1a5a8ea83d21)
+
+# Avoid Getting Banned
+**Make sure you that you turn on your VPN before using the patcher**
+_Commercial VPNs such as NordVPN and ExpressVPN are not recommended, as they can sometimes be detected by BanNamco and result in an account ban._
+
+**Do not alter game files**
+_Manipulating game files goes against the game's terms of service. We provide patcher tools solely for translating text and not for manipulating stats. Any bans incurred as a result of your actions are your own responsibility._
+
+**Know your friends**
+_Trust only those whom you know, and do not accept friend requests from unfamiliar individuals. If they discover that you are an overseas player, you may be reported_
+
+**Respect other players**
+_Play fairly and respect those around you. Avoid using emojis or actions that may annoy others, and refrain from being rude._
+
+**Don't use MIC**
+_A general rule: if you only speak English and not Japanese, your party or teammates may report you, potentially leading to a ban._
+
+**Lastly, This ain't a fool proof system**
+_Use the patcher cautiously as it may be detected in the future; therefore, use it at your own risk._
+
 # Support this Passion Project 
 **If you would like to contribute, a simple donation would help the project to continue**
 
 **I would like to thank the people who donated to my Ko-fi. I appreciate your incredible support guys**
 
-
 **Thank you~**
 
+# Screenshots
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/724d60f2-da6b-4bd5-9836-43e1b14d2c95)
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/0ce4a14d-f47f-4955-bddf-dea5dca37473)
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/c72e0b93-e538-4ea3-84eb-85afd29784b1)
