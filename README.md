@@ -50,7 +50,7 @@ Open **README** on each ZIP for Instructions.
 
 # How to Update Server Patcher Files
 
-- **Server Patcher 2024 (This will also fix Certificate Error 102)** 
+- <h2>**Server Patcher 2024 (This will also fix Certificate Error 102)**</h2>
 1. Download text-ja_JP
 2. Go to the _Version Folder_ inside Server Patcher Folder and delete all files except "mount"
 ![image](https://github.com/user-attachments/assets/2c63b33e-d524-4c8f-821e-6645fb9b37a3)
@@ -60,7 +60,7 @@ Open **README** on each ZIP for Instructions.
 ![image](https://github.com/user-attachments/assets/40f44ecc-4a9a-4e64-935d-59df5b7a199e)
 
 
-- **Server Patcher Legacy**
+- <h2>**Server Patcher Legacy**</h2>
 1. Download loc.json
 2. Paste the file to the Server Patcher Legacy Folder and overwrite
 ![image](https://github.com/user-attachments/assets/fe084d09-9a88-4b80-8f9c-edb3ca768e63)
