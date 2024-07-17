@@ -48,8 +48,27 @@ Open **README** on each ZIP for Instructions.
 1. Server Patcher 2024 - A new patcher made by MCE. Follow the instructions carefully.
 2. Server Patcher Legacy - A working patcher made by [ArtFect](https://github.com/ArtFect/BP-translate)
 
+# How to Update Server Patcher Files
+
+- <h2>**Server Patcher 2024 (This will also fix Certificate Error 102)**</h2>
+1. Download text-ja_JP
+2. Go to the _Version Folder_ inside Server Patcher Folder and delete all files except "mount"
+![image](https://github.com/user-attachments/assets/2c63b33e-d524-4c8f-821e-6645fb9b37a3)
+![image](https://github.com/user-attachments/assets/324b8420-3cfe-4d32-b2b2-7a7fe5e063e8)
+3. Paste the file inside that folder
+![image](https://github.com/user-attachments/assets/e1848805-f866-42ff-8511-87a6caeb5440)
+![image](https://github.com/user-attachments/assets/40f44ecc-4a9a-4e64-935d-59df5b7a199e)
+
+
+- <h2>**Server Patcher Legacy**</h2>
+1. Download loc.json
+2. Paste the file to the Server Patcher Legacy Folder and overwrite
+![image](https://github.com/user-attachments/assets/fe084d09-9a88-4b80-8f9c-edb3ca768e63)
+
+
 # How to Uninstall
 **Just Delete the files (dinput8.dll and ~mods folder) and you are good to go.**
+**You may also delete the Server Patcher Files**
 
 # Tips to avoid getting BANNED
 - **Mandatory to have a VPN connected to Japan**
