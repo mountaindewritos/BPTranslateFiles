@@ -91,7 +91,7 @@ Open **README** on each ZIP for Instructions.
 
   _Play fairly and respect those around you. Avoid using emojis or actions that may annoy others, and refrain from being rude._
 
-- **Don't use MIC**
+- **Don't talk on chat**
 
   _A general rule: if you only speak English and not Japanese, your party or teammates may report you, potentially leading to a ban._
 
