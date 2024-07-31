@@ -93,7 +93,7 @@ Open **README** on each ZIP for Instructions.
 
 - **Don't talk on chat**
 
-  _A general rule: if you only speak English and not Japanese, your party or teammates may report you, potentially leading to a ban._
+  _A general rule: Don't speak any other language besides Japanese, your party or teammates may report you, potentially leading to a ban._
 
 - **Not a fool proof system**
 
