@@ -1,0 +1,13 @@
+{
+  "name": "bptranslatefiles",
+  "version": "1.0.0",
+  "description": "Anime Game Translation Files",
+  "main": "index.js",
+  "scripts": {
+    "update-patch": ".\\scripts\\update-patch.bat"
+  },
+  "dependencies": {
+    "axios": "^1.7.3",
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "gameTitle": "Blue Protocol",
+        "version": "4.27",
+        "lang": "English",
+        "paksDir": "C:/BandaiNamcoLauncherGames/BLUEPROTOCOL",
+        "outputDir": ".",
+        "aes": "0xEA9051DDACE1CCF98A0510F0E370BD986A75C74756E0309E6A578A47AF564255",
+        "logOutputs": false,
+        "keepDirectoryStructure": true,
+        "createNewCheckpoint": false,
+        "useCheckpointFile": "",
+        "export": [
+            "BLUEPROTOCOL/Content/Text/.*\\.uasset:uasset"
+        ],
+        "exclude": []
+    }
+]

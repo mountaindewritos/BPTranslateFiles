@@ -1,0 +1,13 @@
+GET https://masterdata-main.aws.blue-protocol.com/apiext/ HTTP/1.1
+Host: masterdata-main.aws.blue-protocol.com
+Accept: */*
+Accept-Encoding: deflate, gzip
+Content-Type: application/json
+Client-Version: 1.00.010.623046
+x-requested-by: client
+x-is-editor: false
+x-env-access-token: TsBHDef6MmfAtR4T6FBUk7ym5mqVU3Rh
+MasterDataType: 20
+Content-Length: 0
+User-Agent: BLUEPROTOCOL/++UE4+Release-4.27-CL-0 Windows/10.0.19045.1.768.64bit
+
