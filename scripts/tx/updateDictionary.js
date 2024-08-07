@@ -13,8 +13,9 @@ if (original_strings.length === translated_strings.length) {
 
     // Add new translations to the existing dictionary
     original_strings.forEach((og_str, index) => {
-        if (!(og_str in dictionary)) {
-            dictionary[og_str] = translated_strings[index].replace("\r", "")
+        const ja_str = og_str.replace("\r", "")
+        if (!(ja_str in dictionary)) {
+            dictionary[ja_str] = translated_strings[index].replace("\r", "")
             linesAdded++
         }
     })
