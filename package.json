@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Anime Game Translation Files",
   "main": "index.js",
-  "scripts": {
+  "type": "module",
+  "scripts": { 
     "update-patch": ".\\scripts\\update-patch.bat"
   },
   "dependencies": {

@@ -1,0 +1,396 @@
+スタンプを送信しました,スタンプを送信しました
+ミーン,Miin
+ドゴルマン,Dogorman
+クアッドアーム,Quad Arm
+ゾルキシア,Zolksia
+ムーク,Mook
+エレメント,Elemental
+ツインストライカー,Twin Striker
+イージスファイター,Aegis Fighter
+ブラストアーチャー,Blast Archer
+ヘヴィスマッシャー,Heavy Smasher
+スペルキャスター,Spell Caster
+ブリッツランサー,Blitz Lancer
+ビートパーフォーマー,Beat Performer
+土属性,Earth
+火属性,Fire
+氷属性,Ice
+雷属性,Thunder
+光属性,Light
+闇属性,Dark
+エンハンスイマジン,Enhance Imagine
+バトルイマジン,Battle Imagine
+に選ばれし者,Chosen by the
+に愛されし者,Loved by the
+討滅者,Vanquisher
+チェイサー,Chaser
+ハンター,Hunter
+コレクター,Collector
+フェステ,Feste
+エーリンゼ,Aerinse
+ティリス,Tyris
+アインレイン,Einrain
+ジェイク,Jake
+リリ,Lily
+セーラ,Seilah
+マスキエッタ,Maschietta
+コーズ,Kors
+マヌエル,Manuel
+グレン,Glen
+フレルべ,Frelbe
+バシュラール,Bachelard
+メルロウフ,Merlouf
+ミューリィ,Myulie
+ミルレーネ,Millene
+ヴォルディゲン,Voldigen
+カーヴェイン,Carvein
+アデライード,Adelaide
+ユーゴ,Hugo
+ノルベルト,Norbert
+リュゲリオ,Lugerio
+シャルロット,Charlotte
+ヨルク,York
+エレクトラ,Electra
+リーンブルム,Leanbluhm
+ヴェロニカ,Veronica
+ララフォルテ,Lalaforte
+カパクク,Kapakuku
+ピピマルカ,Pipimarka
+カヴァ・アク,Kava Ak
+ワールキン,Walken
+エルニゲス,Elnigues
+ウルガルム,Ulgarm
+アヴニンテ,Avninte
+カラント,Clint
+ヴァーレン,Warren
+カルネラ,Carnella
+ティア,Tia
+アヴァリティア,Avalitia
+HP,HP
+ST,ST
+スタミナ,Stamina
+最大HP,Max HP
+最大ST,Max ST
+攻撃力,ATK
+防御力,DEF
+筋力,STR
+耐久力,VIT
+器用さ,DEX
+知力,INT
+精神力,MND
+会心力,Crit Damage
+回復力,Recovery
+会心率,Crit Rate
+クリティカル率,Crit Rate
+クリティカル力,Crit Damage
+与ダメージ,Damage Dealt
+被ダメージ,Damage Received
+属性蓄積値,Elemental Charge accumulation
+回復量,Recovery amount
+ヘイト,Aggro
+ナッポ化,Nappo Transformation
+拘束,Bind
+麻痺,Paralysis
+チャージ速度,Charge Speed
+耐性,Resistance
+成功率,Success Rate
+属性,Element
+特効,Special Effect
+受ける,Accept
+断る,Decline
+強撃,Attack Boost
+短縮,Quick Cooldown
+昇療,Healing Boost
+魔加,Magic Boost
+バファリア,Bapharia
+アステルリーズ,Asterleeds
+ラルパル,Larpal
+バーンハルト,Bernhardt
+サラムザート,Salamzart
+サラムザード,Salamzart
+バハマール,Bahamar
+ウルラウ,Ulrau
+アステリア,Asteria
+ミンスターホルン,Minsterhorn
+ミンスター,Minster
+アンドラ,Andra
+カナロア,Kanaloa
+ジュビリア,Jubilia
+交易都市アステルリーズ,Commercial Town Asterleeds
+サラムザート・オアシス,Salamzart Oasis
+アステリア平原,Asteria Plain
+海鳴りの草原,Skyquake Fields
+ミンスター丘陵,Minster Hills
+アンドラ盆地,Andra Basin
+夕凪の段丘,Calm Eve Terraces
+バハマール高原,Bahamar Highland
+神の見守る丘,Divine Haven Hill
+鎮まりの山麓,Soundless Foothills
+フィエル嶺水池,Fiel Pond
+モンテノール渓谷,Montegnor Valley
+リッツェ交易街道,Ritze Tradeway
+メリソス川流域,Melisos River Basin
+ガレィリッジ廃道,Abandoned Galley Ridge Road
+エバーグリーン砂漠,Evergreen Desert
+陽炎の谷,Shimmering Valley
+風止みの荒地,Breathless Wasteland
+オルビド平野,Olvid Plains
+レインフォール旧街道,Old Rainfall Road
+帰らずの砂塵,Hollowed Tempest
+音無き都,Soundless City
+神懸の御柱,Pillar of Divinity
+枷神の産屋,Chained One's Spawnery
+巨竜の爪痕,Dragon Claw Valley
+天恵の聖堂,Sanctuary of Blessings
+暁の虫砦,Insect Fortress
+レイクリッド坑道,Reikrid Tunnels
+機跡の谷,Valley of Machines
+ボルオム遺跡,Boroum Ruins
+滝裏の盗掘痕跡,Thieves' Falls
+巨塔の遺跡,Giant Tower Ruins
+木漏れ日射す林道,Sunlit Timberpath
+ともし火の森,Torchlight Thickets
+雨止まぬ森,Everfall Forest
+水精の踊り場,Ballroom of the Water Fairy
+呪われし煌墓,Candlemere Tomb
+緋染めの樹林,Roseblush Woods
+風精の舞台,Windsprite's Rostrum
+崖の遺跡,Cliffside Ruins
+リッツェ村南西,Southwest Ritze Village
+囮となった子の救出,Rescuing the Decoy
+歌姫救出,Rescuing the Songstress
+囁きの崖,Whispering Cliffs
+枷神の楔,Chained One's Wedge
+虚空の浮島,Void's Island
+連綿の塔,Endless Tower
+闘技場,Arena
+ウルラウ郷,Ulrau Village
+西バーンハルト半島,West Bernhardt Peninsula
+ラウェハラ岬,Cape Rauwehara
+コアニアニ森林,Koaniani Forest
+グランヴィル氷界,Granville Glaciers
+熱砂荒漠の奈落,Desolate Abyss
+溶岩,Lava
+恵みの木群,Forest of Blessings
+白亜の記憶,Pale Memories
+アーヴェット岩壁,Arvet's Cliff
+バーンハルト城旧地下水路,Bernhardt Castle Underground Waterway
+ドラーヴァ王立研究所,Drava Royal Research Institute
+海神窟,Sea God's Cavern
+祖霊の墓所,Graveyard of Spirits
+絶境を睨む冥龍の極北,Dragon's Overlook
+棄てられた星憶鉱,Lost Starfield
+歪み遺志,Distorted Will
+雪原,Snowfield
+海岸,Coast
+廃墟の街,City of Ruins
+隠者の水郷,Hermit's Lakeside Village
+黄泉の熱沼,Hellish Marshland
+聖バファリア島地下,Saint Bapharia's Island Underground
+廃鉱山,Abandoned Mine
+ラウレーベン古戦場,Rauleben Battlefield
+シュタール海岸,Stahl Coast
+孤影の城下,Castle Shadows
+アルストン廃坑,Alston Mine
+カルトゥームの砂岩回廊,Kartoum Sandway
+カースドノール遺跡,Castenore Ruins
+ヴァルムラント,Varmelant
+赤鉱の採石所,Red Ore Quarry
+ソプラの山道,Sophra's Mountain Path
+メインスキル,Main Skill
+サブスキル,Sub Skill
+ダミーアクション,Dummy Action
+スタンピードアロー,Stampede Arrow
+BLS回避,Dodge
+モータルグラビティ,Mortal Gravity
+リーサルシャワー,Lethal Shower
+ハンタースピリット,Hunter's Spirit
+ヒーリングアロー,Healing Arrow
+ストライクアロー,Strike Arrow
+アローラッシュ,Arrow Rush
+ヒプノブラスト,Hypnoblast
+レゾナンスショット,Resonance Shot
+ダストフォース,Dust Force
+ショックウェーブ,Shockwave
+ツインフラッシュ,Twin Flash
+リフレッシュエリア,Refresh Area
+グラウンドブレイク,Ground Break
+ファストエイド,First Aid
+メディック,Medic
+ＨＰアップ,HP Up
+攻撃力アップ,ATK Up
+防御力アップ,DEF Up
+回復力アップ,Recovery Up
+会心率アップ,Crit Rate Up
+アイテムヒーラー,Item Healer
+フォローアップ,Follow Up
+ビーストスイング,Beast Swing
+アクストルネード,Axe Tornado
+ヴォルテクスインパクト,Vortex Impact
+BSKエリアル攻撃,Aerial Attack
+ブルータルブロウ,Brutal Blow
+ドレインスパイラル,Drain Spiral
+ストームラッシュ,Storm Rush
+ウォークライ,War Cry
+クロスブラッド,Cross Blood
+ソウルリッパー,Soul Ripper
+イグニッション,Ignition
+フォールインパクト,Fall Impact
+ブラッドアックス,Blood Axe
+クリムゾンブロウ,Crimson Blow
+ラーヴァインパクト,Lava Impact
+バーニングラッシュ,Burning Rush
+アキュムレーション,Accumulation
+フルパワー,Full Power
+トリニティショット,Trinity Shot
+ファイアブラスト,Fireblast
+ブリザード,Blizzard
+ライトニング,Lightning
+エングラムチャージ,Engram Upper
+MGC回避,Dodge
+メテオインフェルノ,Meteor Inferno
+コンセントレイト,Concentrate
+フレイムグレネード,Flame Grenade
+アイシクル,Icicle
+サンダーマイン,Thunder Mine
+フォローバレット,Follow Bullet
+アイスシャード,Ice Shard
+サンダースフィア,Thunder Sphere
+ブレイズブラスト,Blaze Blast
+アルティメットマスタリー,Ultimate Mastery
+ブレイクスラッシュ,Break Slash
+シールドガード,Shield Guard
+RBLエリアル攻撃,Aerial Attack
+エンハンスサークル,Enhance Circle
+ランパート,Rampart
+シールドダッシュ,Shield Dash
+グリッターモード,Glitter Mode
+RBL回避,Dodge
+ブロウビート,Blow Beat
+タウント,Taunt
+シールドチャージ,Shield Charge
+バインドスラッシュ,Bind Slash
+フォートレス,Fortress
+サンライズチャージ,Sunrise Charge
+セレストピラー,Celeste Pillar
+クレセントライト,Crescent Light
+リジェネレーション,Regeneration
+ガードアシスト,Guard Assist
+アンタッチャブル,Untouchable
+ファストフィックス,Fast Fix
+ツインスマッシュ,Twin Smash
+ラウンドショット,Round Shot
+SMAエリアル攻撃,Aerial Attack
+グランドバスター,Groundbuster
+ストライクフォール,Strikefall
+ストームウォール,Storm Wall
+グランドストライク,Ground Strike
+ヘビィスナイプ,Heavy Snipe
+アンカーダイブ,Anchor Dive
+グラビティドライブ,Gravity Drive
+ブーストスマッシュ,Boost Smash
+ハンマースロー,Hammer Throw
+ダストボルテックス,Dust Vortex
+オーバーリロード,Over-reload
+ロックボディ,Rock Body
+キュアカートリッジ,Cure Cartridge
+スタミナアップ,Stamina Up
+ガッツ,Guts
+テンペストラッシュ,Tempest Rush
+エスケープリープ,Escape Leap
+LANエリアル攻撃,Aerial Attack
+エンドオブジャベリン,End Of Javelin
+ラピッドスピア,Rapid Spear
+クルーエルスラスト,Cruel Thrust
+アッパーダンス,Upper Dance
+プリペアモード,Prepare Mode
+グランドパイル,Ground Pile
+スタブインパクト,Stab Impact
+トルネードスピン,Tornado Spin
+ハンティングゾーン,Hunting Zone
+グランドスパーク,Ground Spark
+スラストボルト,Thrust Bolt
+ラピッドスパーク,Rapid Spark
+マークトリガー,Mark Trigger
+Dummy,Dummy
+SMAエネミーステップジャンプ,Springboard Jump
+BLSエネミーステップジャンプ,Springboard Jump
+BSKエネミーステップジャンプ,Springboard Jump
+MGCエネミーステップジャンプ,Springboard Jump
+RBLエネミーステップジャンプ,Springboard Jump
+LANエネミーステップジャンプ,Springboard Jump
+BLS受け身,Rebound
+BSK受け身,Rebound
+MGC受け身,Rebound
+RBL受け身,Rebound
+SMA受け身,Rebound
+LAN受け身,Rebound
+キュアアロー,Cure Arrow
+アークバレット,Arc Bullet
+ソウルコンボ,Soul Combo
+PFM受け身,Rebound
+PFMエネミーステップジャンプ,Springboard Jump
+アボイダンス,Avoidance
+ファイトアウト,Fight-out
+エグザルテーション,Exaltation
+ヘイトマネジメント,Hate Management
+トランスファー,Transfer
+アクションサポート,Action Support
+ヘイトフルダメージ,Hateful Damage
+ハイリザレクト,High Resurrect
+アドレナリン,Adrenaline
+ライズアンドスピード,Rise & Speed
+トランスフィジカル,Transphysical
+コークスクリュー,Corkscrew
+エンチャントスロウ,Enchant Throw
+ヴァンガード,Vanguard
+アディショナルキュア,Additional Cure
+ドレインフィーバー,Drain Fever
+ダメージバースト,Damage Burst
+バーストエンブレム,Burst Emblem
+エレキトランス,Electrance
+テンポアップ,Tempo Up
+ディフェンシヴチャージ,Defensive Charge
+リフレッシュプラス,Refresh Plus
+フォワードアウェイ,Forward Away
+フィジカルジャンプ,Physical Jump
+ジェネレートアンプ,Generate Amp
+ブレイクダウン,Breakdown
+スピリットチャージ,Spirit Charge
+メディカルコード,Medical Chord
+ブレイブノート,Brave Note
+スタンウェーブ,Stun Wave
+バインドロック,Bind Rock
+オーディアグレス,Audiagres
+リバーブヒール,Reverb Heal
+ルーターズソング,Rooter's Song
+ブレイキングビート,Breaking Note
+ハルシオンノート,Halcyon Note
+ソリッドゲイン,Solid Gain
+カームララバイ,Calm Lullaby
+カデンツァ,Cadenza
+PFM回避,Dodge
+サジタリウス,Sagittarius
+BSK回避,Dodge
+SMA回避,Dodge
+LAN回避,Dodge
+SAV回避,Dodge
+ヘイトコレクト,Hate Collect
+レゾナンススピア,Resonance Spear
+ファストドロウ,Fast Draw
+エングラムアッパー,Engram Upper
+デスペラード,Desperado
+PFMスキル中断ステップ,Cancel Step
+コンフォーティング,Comforting
+リサージェンス,Resurgence
+ロックサーフェス,Rock Surface
+オルタナティブスタイル,Alternative Style
+エキサイトライブ,Excite Live
+アグレッサーモード,Aggressor Mode
+リミテッドトリガー,Limit Trigger
+キュアエクステンション,Cure Extension
+センチネルシフト,Sentinel Shift
+ソウルレスエンブレム,Soulless Emblem
+クイックイリュージョン,Quick Illusion
+コンプレッション,Compression
+グルーヴエフェクト,Groove Effect

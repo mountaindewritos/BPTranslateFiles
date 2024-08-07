@@ -1,7 +1,7 @@
 @echo off
 
 @REM Get server text
-node scripts\server\fetch_api
+node scripts\server\fetch_api.cjs
 
 @REM Get client files
 cd scripts\client\UnrealExporter
