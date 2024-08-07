@@ -16,7 +16,7 @@ While some grammar and words are not entirely accurate, we are doing what we can
 - **mce** -  Unpacker/Repacker, Base File Contributor, Debugger, NEW Server Patcher
 - **Dewritos** - Translator, Debugger, Unpacker/Repacker, Git Uploader
 - **FormagGino** - Special Adviser
-- **Zakum** - Feedback Provider
+- **Zakum** - Translator, automated patch updates, and feedback provider (check out [Bapharia.com](https://bapharia.com)!) 
 
 **I would like to thank:**
 - **DOTX** - Server Patcher Legacy
