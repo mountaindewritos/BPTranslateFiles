@@ -8,6 +8,8 @@ Requires NodeJS and NPM to be installed.
 Run `npm i` to install the required packages.
 Then simply run `npm run update-patch` in the root directory whenever you wish to update the translation patch.
 
+Run `npm run delete-tmp` if you wish to clear temporary files that were used to generate the translation files.
+
 ## What the script does
 1. fetch_api.cjs: grab server `.json`s that need to be translated
 2. [UnrealExporter](https://github.com/whotookzakum/UnrealExporter): extract `.uasset`s and `.uexp`s (need both)
