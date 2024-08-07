@@ -1,12 +1,16 @@
 @echo off
 
-@REM Get server text
+@rem Get server text
 node scripts\server\fetch_api.cjs
 
-@REM Get client files
+@rem Get client files
 cd scripts\client\UnrealExporter
 UnrealExporter.exe config
 
-@REM Extract client text
+@rem Extract client text
 cd ..\UE4localizationsTool
 UE4localizationsTool.exe exportall ..\UnrealExporter\BLUEPROTOCOL\Content\Text ja_JP.txt
+
+@rem 
+cd ..\..\tx
+node compileJaText

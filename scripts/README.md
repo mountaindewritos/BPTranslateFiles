@@ -15,3 +15,32 @@ Then simply run `npm run update-patch` in the root directory whenever you wish t
 6. UE4LocalizationsTool: inject `en_client_text.txt` from step 5 into the `.uassets`
 7. repak: create a new `.pak` file using the `.uassets` from step 6
 
+## Contributing Translations
+Translation files can be found inside `/i18n`. **Do not edit any of the `_unique_strings.txt` files as those are overwritten every time the patch is updated, so your changes won't persist.** Kindly make your edits and open a pull request.
+
+Edit `dictionary.json` if the text in question only appears by itself (not inside of multiple sentences) and probably won't be reused in future updates.
+
+For proper nouns and commonly recurring words/phrases, add to `glossary.csv` while maintaining the existing format. DeepL accepts glossaries which allow you to translate parts of text in a specific way. This way we can keep certain names consistent every time they are machine translated. 
+
+### Examples
+> "I told Feste where to find Jake"  
+"Feste" commonly appears within various sentences throughout the game/probably will in future updates → add `フェステ,Feste` to `glossary.csv`
+
+> "†Chosen by the Bow†" (in-game title)  
+"†Chosen by the Bow†" appears only as a title and not in the middle of any sentences and probably won't in future updates → edit `"†弓に選ばれし者†": "†Chosen by the Bow†",` in `dictionary.json`
+
+## Misc
+TODO: add tags to glossary (incomplete)
+<lf>
+<a>
+<cf>
+<cr>
+<word>
+<p ...>
+<span>
+<d ...>
+<key>
+<value>
+</>
+{Leader}
+other braced text
