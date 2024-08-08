@@ -20,7 +20,8 @@ Run `npm run delete-tmp` if you wish to clear temporary files that were used to 
 7. applyTranslation.js: reconstruct the original game files using `dictionary.json` to translate text and output them; server files are now ready
 8. UE4LocalizationsTool: inject English text from `en_US.txt` from the previous step into the `.uassets`
 9. [repak](https://github.com/trumank/repak): create a new `.pak` file using the `.uassets` from the previous step; client file is now ready  
-The translated files are available in `/patch`
+
+The translated files are available in `/patch`.
 
 ## Contributing Translations
 Translation files can be found inside `/i18n`. **Do not edit any of the `_unique_strings.txt` files as those are overwritten every time the patch is updated, so your changes won't persist.** Kindly make your edits and open a pull request.
