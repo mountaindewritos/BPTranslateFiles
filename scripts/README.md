@@ -33,6 +33,9 @@ For proper nouns and commonly recurring words/phrases, add to `glossary.csv` whi
 > [!NOTE]
 > Editing the glossary will not retroactively change strings--it will only apply to future translations. So if the name you add is already inside of `dictionary.json`, you will have to fix each instance manually. For example, if "Aerinse" already exists in the dictionary, but we want to change her name to "Aeryn", we need to add Aeryn to the glossary and manually change every instance of Aerinse in the glossary.
 
+> [!NOTE]
+> Due to the sheer volume of text, the glossary doesn't seem to work 100% of the time. I've found some instances of "Einlein" even though the glossary included `アインレイン,Einrain`. If the text is important, consider checking the dictionary to see that it translated properly. In this case, I'd CTRL + F for "アインレイン" and check for any misspellings.
+
 ### Examples
 > "I told Feste where to find Jake"  
 "Feste" commonly appears within various sentences throughout the game/probably will in future updates → add `フェステ,Feste` to `glossary.csv`
