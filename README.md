@@ -60,7 +60,7 @@ Open **README** on each ZIP for Instructions.
 ![image](https://github.com/user-attachments/assets/40f44ecc-4a9a-4e64-935d-59df5b7a199e)
 
 Fix Certificate Error 102
-[https://youtu.be/GZpSY8CICTw](https://www.youtube.com/watch?v=GZpSY8CICTw&feature=youtu.be)
+[![Cetificate Error 102](https://img.youtube.com/vi/GZpSY8CICTw/0.jpg)](https://www.youtube.com/watch?v=GZpSY8CICTw)
 
 
 - <h2>**Server Patcher Legacy**</h2>
