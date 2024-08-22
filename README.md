@@ -71,8 +71,11 @@ Fix Certificate Error 102 (Click the image to open youtube link)
 
 
 # How to Uninstall
-**Just Delete the files (dinput8.dll and ~mods folder) and you are good to go.**
-**You may also delete the Server Patcher Files**
+ - **Just Delete the files (dinput8.dll and ~mods folder) and you are good to go.**
+ - **You may also delete the Server Patcher Files**
+ - **Lastly delete the parameter inside the host file**
+![image](https://github.com/user-attachments/assets/999a27c2-6c1d-4ed8-8a4f-b59adcb6480e)
+
 
 # Tips to avoid getting BANNED
 - **Mandatory to have a VPN connected to Japan**
