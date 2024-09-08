@@ -59,6 +59,10 @@ Open **README** on each ZIP for Instructions.
 ![image](https://github.com/user-attachments/assets/e1848805-f866-42ff-8511-87a6caeb5440)
 ![image](https://github.com/user-attachments/assets/40f44ecc-4a9a-4e64-935d-59df5b7a199e)
 
+Fix Certificate Error 102 (Click the image to open youtube link)
+
+[![Cetificate Error 102](https://img.youtube.com/vi/GZpSY8CICTw/0.jpg)](https://www.youtube.com/watch?v=GZpSY8CICTw)
+
 
 - <h2>**Server Patcher Legacy**</h2>
 1. Download loc.json
@@ -67,8 +71,11 @@ Open **README** on each ZIP for Instructions.
 
 
 # How to Uninstall
-**Just Delete the files (dinput8.dll and ~mods folder) and you are good to go.**
-**You may also delete the Server Patcher Files**
+ - **Just Delete the files (dinput8.dll and ~mods folder) and you are good to go.**
+ - **You may also delete the Server Patcher Files**
+ - **Lastly delete the parameter inside the host file**
+![image](https://github.com/user-attachments/assets/999a27c2-6c1d-4ed8-8a4f-b59adcb6480e)
+
 
 # Tips to avoid getting BANNED
 - **Mandatory to have a VPN connected to Japan**
