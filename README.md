@@ -1,5 +1,5 @@
 # Blast Protocol Translation Project 
-Anime Game Translation Files | **[DISCORD LINK](https://discord.gg/jdkams6jca)** | **_[Ko-fi](https://ko-fi.com/mountaindewritos)_** \ **_[Patreon](https://patreon.com/mtdewritos)_**
+Anime Game Translation Files | **[DISCORD LINK](https://discord.gg/jdkams6jca)** | **_[Ko-fi](https://ko-fi.com/mountaindewritos)_** | **_[Patreon](https://patreon.com/mtdewritos)_**
 
 ![Blast Protocol Mod](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/45396439-4053-4aac-bd7c-8ddd3cacc3d6)
 
