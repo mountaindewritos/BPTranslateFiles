@@ -1,100 +1,60 @@
-# Blast Protocol Translation Project 
-Anime Game Translation Files | **[DISCORD LINK](https://discord.gg/jdkams6jca)** | **_[DONATION LINK](https://ko-fi.com/mountaindewritos)_**
+# Translation Patch Updater Scripts by Zakum
+These scripts automate the process of updating the translation patch. It uses [DeepL](https://www.deepl.com/) to machine translate any text that has been added since the last time the scripts were run--in other words, it will translate the new text added every game update.
 
-![Blast Protocol Mod](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/45396439-4053-4aac-bd7c-8ddd3cacc3d6)
+After some text has been machine translated once, it won't be overwritten, so you can contribute manual fixes/edits directly to the same file (see [contributing translations](#contributing-translations)).
 
-**ANNOUNCEMENT**
-Starting July 5 2024: Future releases might take longer, possibly weeks or months, as we focus on improving the quality of the translation and fixing the UI.
+## Usage
+Requires NodeJS and NPM to be installed. 
+Run `npm i` to install the required packages.
+Then simply run `npm run update-patch` in the root directory whenever you wish to update the translation patch.
 
-# About Blast Protocol
-This fan-made translation mod is our gift to everyone eagerly awaiting the official global release and wanting to experience the Japanese version of the game. 
-Initially it was started as a Full Machine Translation Mod for faster development but turned into Semi Human / Machine Translation due to some inconsistencies that the Machine Learning produced.
-While some grammar and words are not entirely accurate, we are doing what we can to correct it.
-**Map names are sourced from [BP-DATA's Website](bp-data.net). Use a translation plugin on your web browser to view the translated map names.**
+Run `npm run delete-tmp` if you wish to clear temporary files that were used to generate the translation files.
 
-# Meet Team Blast
-- **mce** -  Unpacker/Repacker, Base File Contributor, Debugger, NEW Server Patcher
-- **Dewritos** - Translator, Debugger, Unpacker/Repacker, Git Uploader
-- **FormagGino** - Special Adviser
-- **Zakum** - Translator, [automated patch updates](/scripts/README.md), and feedback provider (check out [Bapharia.com](https://bapharia.com)!) 
+## What the script does
+1. fetch_api.cjs: grab server `.json`s that need to be translated
+2. [UnrealExporter](https://github.com/whotookzakum/UnrealExporter): extract `.uasset`s and `.uexp`s (need both)
+3. [UE4LocalizationsTool](https://github.com/amrshaheen61/UE4LocalizationsTool): merge all `.uasset` contents into a single `ja_JP.txt` containing client text
+4. compileJaText.js: create `ja_JP_unique_strings.txt` with every unique Japanese string in the game that isn't already translated in `dictionary.json`
+5. fetchTranslation.js: translate the `ja_JP_unique_strings.txt` into `en_US_unique_strings.txt` via DeepL API with `glossary.csv`
+6. updateDictionary.js: merge `ja_JP_unique_strings.txt` and `en_US_unique_strings.txt` by their indices and update `dictionary.json`
+7. applyTranslation.js: reconstruct the original game files using `dictionary.json` to translate text and output them; server files are now ready
+8. UE4LocalizationsTool: inject English text from `en_US.txt` from the previous step into the `.uassets`
+9. [repak](https://github.com/trumank/repak): create a new `.pak` file using the `.uassets` from the previous step; client file is now ready  
 
-**I would like to thank:**
-- **DOTX** - Server Patcher Legacy
-- **ArtFect** - Server Patcher Legacy
-- **Light** - Beta Feedback Provider (Discord)
+The translated files are available in `/patch`.
 
-**I would also like to thank the people who donated to my Ko-fi. I appreciate and thank you for your incredible support**
+## Contributing Translations
+Translation files can be found inside `/i18n`. **Do not edit any of the `_unique_strings.txt` files as those are overwritten every time the patch is updated, so your changes won't persist.** Kindly make your edits and open a pull request.
 
-# How to Install Mods
-Download and Copy the following:
-1. dinput8.dll (client-patch\Binaries\Win64)
-DriveLetter:\...\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64
+Edit `dictionary.json` if the text in question only appears by itself (not inside of multiple sentences) and probably won't be reused in future updates.
 
-example
-![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/6b2bf90a-e047-4179-a446-510a2f90bd80)
+For proper nouns and commonly recurring words/phrases, add to `glossary.csv` while maintaining the existing format. DeepL accepts glossaries which allow you to translate parts of text in a specific way. This way we can keep certain names consistent every time they are machine translated. 
 
-2. ~mods (client-patch\Content\Paks) - Remove the old patch files (.pak & .sig)
-If you already have the mod file with the same name, just download .pak file
-DriveLetter:\...\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks
+> [!NOTE]
+> Editing the glossary will not retroactively change strings--it will only apply to future translations. So if the name you add is already inside of `dictionary.json`, you will have to fix each instance manually. For example, if "Aerinse" already exists in the dictionary, but we want to change her name to "Aeryn", we need to add Aeryn to the glossary and manually change every instance of Aerinse in the glossary.
 
-example
-![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/ba0aa679-c18b-4330-90a6-1a5a8ea83d21)
+> [!NOTE]
+> Due to the sheer volume of text, the glossary doesn't seem to work 100% of the time. I've found some instances of "Einlein" even though the glossary included `アインレイン,Einrain`. If the text is important, consider checking the dictionary to see that it translated properly. In this case, I'd CTRL + F for "アインレイン" and check for any misspellings.
 
-# How to Use a Server Patcher
-**There are two Server Patcher tools**
-For users of the patcher tool, I recommend deleting any versions of the patcher downloaded before the latest update.
-Open **README** on each ZIP for Instructions.
+### Examples
+> "I told Feste where to find Jake"  
+"Feste" commonly appears within various sentences throughout the game/probably will in future updates → add `フェステ,Feste` to `glossary.csv`
 
-1. Server Patcher 2024 - A new patcher made by MCE. Follow the instructions carefully.
-2. Server Patcher Legacy - A working patcher made by [ArtFect](https://github.com/ArtFect/BP-translate)
+> "†Chosen by the Bow†" (in-game title)  
+"†Chosen by the Bow†" appears only as a title and not in the middle of any sentences and probably won't in future updates → edit `"†弓に選ばれし者†": "†Chosen by the Bow†",` in `dictionary.json`
 
-# How to Uninstall
-**Just Delete the files (dinput8.dll and ~mods folder) and you are good to go.**
-
-# Tips to avoid getting BANNED
-- **Mandatory to have a VPN connected to Japan**
-  
-  _Commercial VPNs such as NordVPN and ExpressVPN are not recommended, as they can sometimes be detected by BanNamco and result in an account ban._
-
-- **Keep Software Updated**
-  
-  _Ensure any legitimate patches or updates are applied promptly to avoid compatibility issues._
-
-- **Do not alter game files**
-  
-  _Manipulating game files goes against the game's terms of service. We provide patcher tools solely for translating text and not for manipulating stats. Any bans incurred as a result of your actions are your own responsibility._
-
-- **Know your friends**
-
-  _Trust only those whom you know, and do not accept friend requests from unfamiliar individuals. If they discover that you are an overseas player, you may be reported_
-
-- **Respect other players**
-
-  _Play fairly and respect those around you. Avoid using emojis or actions that may annoy others, and refrain from being rude._
-
-- **Don't use MIC**
-
-  _A general rule: if you only speak English and not Japanese, your party or teammates may report you, potentially leading to a ban._
-
-- **Not a fool proof system**
-
-  _Use the patcher cautiously as it may be detected in the future; therefore, use it at your own risk._
-
-# Support this Passion Project 
-**If you would like to contribute, a simple donation would help the project to continue**
-
-**I would like to thank the people who donated to my Ko-fi. I appreciate your incredible support guys**
-
-**Thank you~**
-
-
-# Screenshots
-![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/724d60f2-da6b-4bd5-9836-43e1b14d2c95)
-![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/0ce4a14d-f47f-4955-bddf-dea5dca37473)
-![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/c72e0b93-e538-4ea3-84eb-85afd29784b1)
-![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/5a9fdb42-2bd0-4d60-8881-d378cb81212f)
-![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/d8e2c13e-c90d-46fb-ac10-c3d7dc410d87)
-![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/2cb287e3-c856-41bb-bf16-76488c953617)
-
-
-
+## Misc
+TODO: add tags to glossary (incomplete)
+<lf>
+<a>
+<cf>
+<cr>
+<word>
+<p ...>
+<span>
+<d ...>
+<key>
+<value>
+</>
+{Leader}
+other braced text
