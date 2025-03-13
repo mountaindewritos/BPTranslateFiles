@@ -4,7 +4,11 @@ Anime Game Translation Files | **[DISCORD LINK](https://discord.gg/jdkams6jca)**
 ![Blast Protocol Mod](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/45396439-4053-4aac-bd7c-8ddd3cacc3d6)
 
 **ANNOUNCEMENT**
-Starting July 5 2024: Future releases might take longer, possibly weeks or months, as we focus on improving the quality of the translation and fixing the UI.
+
+March 13, 2025: Blue Protocol Private Server is in the works. 
+
+You all are welcome to join the Official Discord Server of BPRP **[[DISCORD LINK]](https://discord.gg/apYAFfXHQN)**
+You need to have the Final Build of game if not, you may download it on BPRP's Announcement. The following instructions are now focused on the BPRP build as the Official Bamco Build no longer supported as it was shut down since Jan 18 2025.
 
 # About Blast Protocol
 This fan-made translation mod is our gift to everyone eagerly awaiting the official global release and wanting to experience the Japanese version of the game. 
@@ -28,6 +32,7 @@ While some grammar and words are not entirely accurate, we are doing what we can
 # How to Install Mods
 Download and Copy the following:
 1. dinput8.dll (client-patch\Binaries\Win64)
+
 DriveLetter:\...\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64
 
 example
@@ -35,11 +40,13 @@ example
 
 2. ~mods (client-patch\Content\Paks) - Remove the old patch files (.pak & .sig)
 If you already have the mod file with the same name, just download .pak file
+
 DriveLetter:\...\BLUEPROTOCOL\BLUEPROTOCOL\Content\Paks
 
 example
 ![image](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/ba0aa679-c18b-4330-90a6-1a5a8ea83d21)
 
+<!--- 
 # How to Use a Server Patcher
 **There are two Server Patcher tools**
 For users of the patcher tool, I recommend deleting any versions of the patcher downloaded before the latest update.
@@ -68,15 +75,25 @@ Fix Certificate Error 102 (Click the image to open youtube link)
 1. Download loc.json
 2. Paste the file to the Server Patcher Legacy Folder and overwrite
 ![image](https://github.com/user-attachments/assets/fe084d09-9a88-4b80-8f9c-edb3ca768e63)
+--->
+
+# Adding a Local JSON file
+This is the other half of the Translation since .pak files are for game client text, the JSON file emulates online cloud data that game should get (Adventure Board Tasks, Mission tasks, Weapons, abilities).
+Download text.json or loc.json (older downloads) and paste it to the directory it should be with _BLUEPROTOCOL-Win64-Shipping.exe_
+
+DriveLetter:\...\BLUEPROTOCOL\BLUEPROTOCOL\Binaries\Win64
+
+![{6B5C382B-0B91-479A-8F9B-84D63DC2944F}](https://github.com/user-attachments/assets/b812baf3-3642-4940-91f0-e4d4f3a4ce7d)
 
 
 # How to Uninstall
  - **Just Delete the files (dinput8.dll and ~mods folder) and you are good to go.**
- - **You may also delete the Server Patcher Files**
- - **Lastly delete the parameter inside the host file**
-![image](https://github.com/user-attachments/assets/999a27c2-6c1d-4ed8-8a4f-b59adcb6480e)
+ - **You may also delete the JSON File**
+<!--- - **Lastly delete the parameter inside the host file**
 
+![image](https://github.com/user-attachments/assets/999a27c2-6c1d-4ed8-8a4f-b59adcb6480e) --->
 
+<!---
 # Tips to avoid getting BANNED
 - **Mandatory to have a VPN connected to Japan**
   
@@ -105,7 +122,7 @@ Fix Certificate Error 102 (Click the image to open youtube link)
 - **Not a fool proof system**
 
   _Use the patcher cautiously as it may be detected in the future; therefore, use it at your own risk._
-
+--->
 # Support this Passion Project 
 **If you would like to contribute, a simple donation would help the project to continue**
 
