@@ -3,11 +3,11 @@ Anime Game Translation Files | **[DISCORD LINK](https://discord.gg/jdkams6jca)**
 
 ![Blast Protocol Mod](https://github.com/mountaindewritos/BPTranslateFiles/assets/66302821/45396439-4053-4aac-bd7c-8ddd3cacc3d6)
 
-**ANNOUNCEMENT**
+# **ANNOUNCEMENT**
 
 March 13, 2025: Blue Protocol Private Server is in the works. 
 
-You all are welcome to join the Official Discord Server of BPRP **[[DISCORD LINK]](https://discord.gg/apYAFfXHQN)**
+You are all welcome to join the Official Discord Server of BPRP **[[DISCORD LINK]](https://discord.gg/apYAFfXHQN)**
 You need to have the Final Build of game if not, you may download it on BPRP's Announcement. The following instructions are now focused on the BPRP build as the Official Bamco Build no longer supported as it was shut down since Jan 18 2025.
 
 # About Blast Protocol
